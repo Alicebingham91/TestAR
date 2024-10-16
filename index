@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>USDZ AR Viewer</title>
+</head>
+<body>
+    <h1>View USDZ Model in AR</h1>
+    <!-- Link to the USDZ file hosted in your GitHub repository -->
+    <a rel="ar" href="https://raw.githubusercontent.com/Alicebingham91/TestAR/main/model.usdz">
+        <img src="https://via.placeholder.com/150x150.png?text=View+in+AR" alt="View in AR">
+    </a>
+</body>
+</html>
